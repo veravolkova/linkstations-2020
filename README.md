@@ -2,10 +2,11 @@
 A small full-stack project that solves the most suitable (with most power) link station for a device at given
 point [x,y]. You can access it [here](https://stationsserver.herokuapp.com/)
 
+<img src="https://drive.google.com/uc?export=view&id=1TsEEspCoOJkCDrJpYRVT9dbBicF8Sr3u" alt="Link Stations Screenshot1">
 
 ## Technologies
 * React, Axios, Material-UI
-* Node.js, Express, MongoDB
+* Node.js, Express, MongoDB (for demo purposes)
 * Testing (Jest)
 
 ## To run this project locally:
